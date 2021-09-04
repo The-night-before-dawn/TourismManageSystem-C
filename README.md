@@ -1,2 +1,2 @@
-# C-sql-travel-manage-system
-C语言+ODBC驱动+SQL Server=旅游管理系统
+# ManageSystem-C
+使用C语言与ODBC驱动连接SQL Server数据库搭建旅游管理系统。
